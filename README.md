@@ -37,7 +37,8 @@ Architecture - CNN(4 convolutional layers used with `relu` activation function a
 relu-->convnets, followed by two fully connected layers. And optimizer used is ADAM and loss used is "CrossEntropy_loss"
 
 ### Results
-Results on the dataset are actually farm much better than the competetion winner (34%) And our model can predict emotions with accuracy of 54% at max.
+Results on the dataset are actually farm much better than the competetion winner (34%) And our model can predict emotions with accuracy of 54% at max. For result of facial recognition pls see these results from the link.
+Result :https://drive.google.com/drive/folders/1Tf4QNv7BeNCSLivEn9-DwKMJNkRebQVW?usp=sharing
 
 ### Open Issues
 Unable to apply Federated Learning using course experience and videos along with openmind tutorials. As the tutorials are just performed on mnist data using common data_loading techniques and Pysyft is giving error on  processing custom data.I trie dto get help from some peers but they aren't also able to solve it and declared it as a bug.

@@ -16,7 +16,7 @@ Open project notebook : https://github.com/akadidas/Udacity_Project_Showcase/blo
 ## The Project
 
 ### What is the project about?
-Emotion Based Music Player (Emotious) is a Convolutional Neural Network based model able to suggest music on the basis of "Facial Emotion Of User"  adn then play music accordingly.With the idea of using federated learning to make music app like spotify much smarter using emotion recognition and security provided by Federated learning for it making no acta\ual transfer of sensitive data like user photo being transferred and still predicting right song is feat which emotious can do quite easily and efficiently.
+Emotion Based Music Player (Emotious) is a Convolutional Neural Network based model able to suggest music on the basis of "Facial Emotion Of User"  and then play music accordingly.With the idea of using federated learning to make music app like spotify much smarter using emotion recognition and security provided by Federated learning for it making no actual transfer of sensitive data like user photo being transferred and still predicting right song is feat which emotious can do quite easily and efficiently.
 
 
 
